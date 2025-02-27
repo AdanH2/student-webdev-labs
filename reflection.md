@@ -47,3 +47,15 @@
 3. There was nothing that I wish was explained better.
 4. There aren't any other exercises that I can think of that could have helped my understanding more. As 
     mentioned previously, exercise 1 could have been just as effective with maybe one less container.
+
+### CSS Grid
+
+1. I was able to complete the lab on my own, however there were a couple of times that I referenced the 
+    slides.
+2. I think that both exercises in this lab were very helpful. However, I would have to say that exercise 2
+    in my opinion was a bit more helpful. I find that grid areas might have a bit more of usefulness in 
+    practice.
+3. There was nothing that I wish was explained better. The slides and lecture were very helpful in
+    completing the lab.
+4. I think both exercises were very helpful in learning this week's material. I can't imagine another
+    exercise helping in learning the material.
